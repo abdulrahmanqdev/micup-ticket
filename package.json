@@ -1,0 +1,14 @@
+{
+  "name": "micup-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Micup.js bot altyapisi",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "micup.js": "github:kampyeri/micup.js"
+  }
+}
